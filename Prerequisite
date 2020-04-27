@@ -3,3 +3,4 @@ Prerequisite:
 1.Mysql for database.
 2.python 3.7
 3.python Libraries: tkinter, numpy, matplotlib, sklearn
+To access the project run welcome.py file.
